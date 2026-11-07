@@ -74,6 +74,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
 - [safetywrap](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
 - [useful-types](https://github.com/hauntsaninja/useful_types) - Collection of useful protocols and type aliases.
+- [sqlty](https://github.com/jirikuncar/sqlty) - Infer row and parameter types of raw SQL strings from the database schema.
 
 ## Backports and improvements
 
